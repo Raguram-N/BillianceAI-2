@@ -133,6 +133,18 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 
 ---
 
+## Why Felina unique
+
+### There is NO major AI product offering:
+- Personal teacher
+- Voice + visual learning
+- Adaptive study decks
+- Exam-specific personalization
+- Evaluation + mentorship + planning
+- The market is huge, evergreen, and highly monetizable.
+
+---
+
 <table>
 <tr>
 <td width="40%" align="center" valign="middle">
@@ -154,7 +166,7 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 </tr>
 </table>
 
-> **Anyone who wants structured personal learning**
+> **✨ Anyone who wants structured personal learning**
 
 ---
 
@@ -183,31 +195,28 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 
 ---
 
-## Why Felina unique
+## 💰 Revenue Opportunity (Business-Grade)
 
-### There is NO major AI product offering:
-- Personal teacher
-- Voice + visual learning
-- Adaptive study decks
-- Exam-specific personalization
-- Evaluation + mentorship + planning
-- The market is huge, evergreen, and highly monetizable.
+<div align="center">
+  
+**Felina is designed to become a high-margin, multi-segment, AI-led EdTech ecosystem.**
+<img src="6.png" width="65%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</div>
 
 ---
 
-
-## 💰 Revenue Opportunity (Business-Grade)
-
-Felina is designed to become a high-margin, multi-segment, AI-led EdTech ecosystem.
 ### 1️⃣ Total Addressable Market: 30 Crore+ Learners
 Even 0.5% penetration = 15 lakh paying users.
 
 ### 2️⃣ Subscription Model
-🟩 Low-tier (₹199–₹499/month) <br>
+- 🟩 Low-tier (₹199–₹499/month) <br>
 School & college students.<br>
-🟦 Mid-tier (₹499–₹999/month)<br>
+
+- 🟦 Mid-tier (₹499–₹999/month)<br>
 Entrance + competitive exams.<br>
-🟧 Premium tier (₹1,499–₹2,999/month)<br>
+
+- 🟧 Premium tier (₹1,499–₹2,999/month)<br>
 Mentorship + answer evaluation.
 
 ### 3️⃣ High Margins via AI
@@ -226,9 +235,11 @@ AI has near-zero delivery cost per extra user.
 
 ### 5️⃣ Unicorn-Scale Potential
 With just 15 lakh users @ ₹299/month:<br>
+
 ➡️ ₹448 crore/year (base subscription alone)<br>
-Premium + institutional layers push revenue beyond ₹1,000 crore/year.<br>
-> **Felina is structurally capable of becoming a unicorn-scale education AI platform.**
+- Premium + institutional layers push revenue beyond ₹1,000 crore/year.<br>
+
+> **✨ Felina is structurally capable of becoming a unicorn-scale education AI platform.**
 
 
 ---
@@ -299,7 +310,7 @@ Felina can expand into:
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="6.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="6.1.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -317,6 +328,6 @@ it is India’s first 24×7 Universal Personal Teacher.
 
 </td>
 </tr>
-</table>|
+</table>
 
 > **✨ “Exams are not cleared by information — they are cleared by consistent learning. Felina delivers exactly that.”**
