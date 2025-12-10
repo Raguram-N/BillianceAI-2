@@ -12,10 +12,10 @@ It is designed for school students, college learners, entrance exam candidates, 
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="Problem statement.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="1.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
-<td width="60%" valign="top">
+<td width="80%" valign="top">
   
 ## 🚀 Overview
 
@@ -49,7 +49,7 @@ Every learner today struggles with:
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="Problem statement.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="2.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -92,7 +92,7 @@ Felina provides:
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="Problem statement.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="3.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -176,7 +176,7 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="Problem statement.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="4.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -241,7 +241,7 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="Problem statement.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="5.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -372,7 +372,7 @@ Research Link
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="Problem statement.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="6.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
