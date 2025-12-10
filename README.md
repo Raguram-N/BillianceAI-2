@@ -3,7 +3,7 @@
 
 Felina is an AI-powered personal teacher that explains, guides, questions, evaluates, motivates, and coaches — just like a real mentor.
 
-It is designed for school students, college learners, entrance exam candidates, competitive exam aspirants, Mock interview and skill learners.
+> **✨ It is designed for school & college students, competitive exam aspirants, Mock interview, skill learners etc.**
 
 ---
 
