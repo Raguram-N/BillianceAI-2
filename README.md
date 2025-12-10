@@ -199,15 +199,16 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 
 <div align="center">
   
-**Felina is designed to become a high-margin, multi-segment, AI-led EdTech ecosystem.**
 <img src="6.png" width="65%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+**Felina is designed to become a high-margin, multi-segment, AI-led EdTech ecosystem.**
 
 </div>
 
 ---
 
 ### 1️⃣ Total Addressable Market: 30 Crore+ Learners
-Even 0.5% penetration = 15 lakh paying users.
+- Even 0.5% penetration = 15 lakh paying users.
 
 ### 2️⃣ Subscription Model
 - 🟩 Low-tier (₹199–₹499/month) <br>
@@ -220,10 +221,11 @@ Entrance + competitive exams.<br>
 Mentorship + answer evaluation.
 
 ### 3️⃣ High Margins via AI
-AI has near-zero delivery cost per extra user.
-➡️ 85–90% gross margin
-➡️ 6×–10× higher LTV
-➡️ Massive scalability
+- AI has near-zero delivery cost per extra user.<br>
+
+➡️ 85–90% gross margin<br>
+➡️ 6×–10× higher LTV<br>
+➡️ Massive scalability<br>
 
 ### 4️⃣ Multiple Revenue Streams
 - Study PDF marketplace
@@ -234,10 +236,10 @@ AI has near-zero delivery cost per extra user.
 - WhatsApp-based micro-subscriptions
 
 ### 5️⃣ Unicorn-Scale Potential
-With just 15 lakh users @ ₹299/month:<br>
+- With just 15 lakh users @ ₹299/month:<br>
+- Premium + institutional layers push revenue beyond ₹1,000 crore/year.<br>
 
 ➡️ ₹448 crore/year (base subscription alone)<br>
-- Premium + institutional layers push revenue beyond ₹1,000 crore/year.<br>
 
 > **✨ Felina is structurally capable of becoming a unicorn-scale education AI platform.**
 
