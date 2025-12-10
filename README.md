@@ -1,5 +1,5 @@
 # 🤖 BillianceAI — Felina
-## Your 24×7 Personal Mentor — Any Time, Any where, Any Subject, Any Learner
+## Your 24×7 Personal Mentor — Any Time, Any where, Any topic, Any one.
 
 Felina is an AI-powered personal teacher that explains, guides, questions, evaluates, motivates, and coaches — just like a real mentor.
 
