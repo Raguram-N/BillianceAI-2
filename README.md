@@ -289,7 +289,7 @@ Felina can expand into:
 
 ## 👁️ Research Proof
 
-Research Link
+[Research Link](https://github.com/Raguram-N/Felina-mentor---Research-proof/blob/main/README.md)
 
 ---
 
