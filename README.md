@@ -238,7 +238,7 @@ Premium + institutional layers push revenue beyond ₹1,000 crore/year.<br>
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="Problem statement.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="Future scope.1.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
