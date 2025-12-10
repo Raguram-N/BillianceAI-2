@@ -314,8 +314,9 @@ it is India’s first 24×7 Universal Personal Teacher.
 - Personalized paths
 - Continuous evaluation
 - Consistent improvement
-> **✨ “Exams are not cleared by information — they are cleared by consistent learning. Felina delivers exactly that.”**
 
 </td>
 </tr>
-</table>
+</table>|
+
+> **✨ “Exams are not cleared by information — they are cleared by consistent learning. Felina delivers exactly that.”**
