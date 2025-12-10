@@ -19,8 +19,7 @@ It is designed for school students, college learners, entrance exam candidates, 
   
 ## 🚀 Overview
 
-Most AI tools give answers.
-> **Felina teaches.**
+Most AI tools give answers. - **Our Felina teaches.**
 
 Every learner today struggles with:
 - Too much scattered content
@@ -29,11 +28,12 @@ Every learner today struggles with:
 - Weak revision
 - No feedback
 - No performance tracking
-> **Felina solves all of these by becoming your 24×7 AI Teacher + Evaluator + Guide + Coach.**
 
 </td>
 </tr>
 </table>
+
+> **Felina solves all of these by becoming your 24×7 AI Teacher + Evaluator + Guide + Coach.**
 
 ---
 
@@ -99,6 +99,11 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 - 🤖 Doubt Solver
 - 🧪 Smart Mock Tests
 - Daily, weekly, topic-wise quizzes with instant analytics.
+
+</td>
+</tr>
+</table>
+
 > **From NCERT → PYQs → college textbooks → assignments → competitive exams.**
 
 ---
@@ -112,10 +117,6 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 - Tracks accuracy + concepts
 - Updates tomorrow’s plan
 - Repeats until mastery ✔️
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -135,7 +136,7 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="4.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="3.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -148,9 +149,22 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 - Competitive Exam Students (UPSC / TNPSC / SSC / Banking)
 - Skill Learners (Coding, Communication, Aptitude, English)
 
+</td>
+</tr>
+</table>
+
 > **Anyone who wants structured personal learning**
 
 ---
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="4.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ## 📊 Market Opportunity
 
