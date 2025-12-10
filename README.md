@@ -7,6 +7,16 @@ It is designed for school students, college learners, entrance exam candidates, 
 
 ---
 
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="Problem statement.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 ## 🚀 Overview
 
 Most AI tools give answers.
@@ -28,7 +38,21 @@ Every learner today struggles with:
 
 > **Felina solves all of these by becoming your 24×7 AI Teacher + Evaluator + Guide + Coach.**
 
+</td>
+</tr>
+</table>
+
 ---
+
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="Problem statement.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ## 💡 The Spark — The Innovation
 ### 🧠 Felina = Teacher + Mentor + Evaluator + Coach
@@ -57,8 +81,22 @@ Felina provides:
 
 - A complete universal learning ecosystem for all types of students.
 
+</td>
+</tr>
+</table>
+
 ---
 
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="Problem statement.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 ## ✨ Key Features
 ### 🎙️ Voice + Visual Hybrid Teaching
 
@@ -110,6 +148,10 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 
 - Repeats until mastery ✔️
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🎯 Benefits
@@ -129,6 +171,15 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 - Visual + voice learning advantage
 
 ---
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="Problem statement.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ## 👥 Target Audience
 
@@ -162,6 +213,10 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 
 - 95% use phones + WhatsApp for studying.
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## Why Felina unique
@@ -181,6 +236,16 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 - The market is huge, evergreen, and highly monetizable.
 
 ---
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="Problem statement.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 
 ## 💰 Revenue Opportunity (Business-Grade)
 
@@ -234,8 +299,22 @@ Premium + institutional layers push revenue beyond ₹1,000 crore/year.
 
 > **Felina is structurally capable of becoming a unicorn-scale education AI platform.**
 
+</td>
+</tr>
+</table>
+
 ---
 
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="Problem statement.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 ## 🚀 Future Scope
 
 - AI-led live classes
@@ -276,6 +355,10 @@ Felina can expand into:
 
 - Language learning trainer
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 👁️ Research Proof
@@ -283,6 +366,17 @@ Felina can expand into:
 Research Link
 
 ---
+
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="Problem statement.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 
 ## 🏁 Conclusion
 
@@ -302,3 +396,7 @@ it is India’s first 24×7 Universal Personal Teacher.
 - Consistent improvement
 
 > **✨ “Exams are not cleared by information — they are cleared by consistent learning. Felina delivers exactly that.”**
+
+</td>
+</tr>
+</table>
