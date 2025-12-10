@@ -8,15 +8,6 @@ It is designed for school students, college learners, entrance exam candidates, 
 ---
 
 
-<table>
-<tr>
-<td width="40%" align="center" valign="middle">
-
-<img src="1.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="80%" valign="top">
-  
 ## 🚀 Overview
 
 Most AI tools give answers. - **Our Felina teaches.**
@@ -29,14 +20,11 @@ Every learner today struggles with:
 - No feedback
 - No performance tracking
 
-</td>
-</tr>
-</table>
-
-> **Felina solves all of these by becoming your 24×7 AI Teacher + Evaluator + Guide + Coach.**
+> **✨ Felina solves all of these by becoming your 24×7 AI Teacher + Evaluator + Guide + Coach.**
 
 ---
 
+## 💡 The Spark — The Innovation
 
 <table>
 <tr>
@@ -47,7 +35,6 @@ Every learner today struggles with:
 </td>
 <td width="60%" valign="top">
 
-## 💡 The Spark — The Innovation
 ### 🧠 Felina = Teacher + Mentor + Evaluator + Coach
 
 Felina provides:
@@ -69,6 +56,7 @@ Felina provides:
 
 ---
 
+## ✨ Key Features
 
 <table>
 <tr>
@@ -79,7 +67,6 @@ Felina provides:
 </td>
 <td width="60%" valign="top">
   
-## ✨ Key Features
 ### 🎙️ Voice + Visual Hybrid Teaching
 
 Concepts explained through voice notes + diagrams/visuals for deeper clarity.
@@ -104,7 +91,7 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 </tr>
 </table>
 
-> **From NCERT → PYQs → college textbooks → assignments → competitive exams.**
+> **✨ From NCERT → PYQs → college textbooks → assignments → competitive exams.**
 
 ---
 
@@ -120,6 +107,16 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 
 ---
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="1.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="80%" valign="top">
+
+
 ## 🎯 Benefits
 
 - Faster conceptual clarity
@@ -129,6 +126,10 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 - 24×7 availability
 - Clear revision structure
 - Visual + voice learning advantage
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -194,15 +195,6 @@ Concepts explained through voice notes + diagrams/visuals for deeper clarity.
 
 ---
 
-<table>
-<tr>
-<td width="40%" align="center" valign="middle">
-
-<img src="5.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="60%" valign="top">
-
 
 ## 💰 Revenue Opportunity (Business-Grade)
 
@@ -211,16 +203,15 @@ Felina is designed to become a high-margin, multi-segment, AI-led EdTech ecosyst
 Even 0.5% penetration = 15 lakh paying users.
 
 ### 2️⃣ Subscription Model
-🟩 Low-tier (₹199–₹499/month)
-School & college students.
-🟦 Mid-tier (₹499–₹999/month)
-Entrance + competitive exams.
-🟧 Premium tier (₹1,499–₹2,999/month)
+🟩 Low-tier (₹199–₹499/month) <br>
+School & college students.<br>
+🟦 Mid-tier (₹499–₹999/month)<br>
+Entrance + competitive exams.<br>
+🟧 Premium tier (₹1,499–₹2,999/month)<br>
 Mentorship + answer evaluation.
 
 ### 3️⃣ High Margins via AI
 AI has near-zero delivery cost per extra user.
-
 ➡️ 85–90% gross margin
 ➡️ 6×–10× higher LTV
 ➡️ Massive scalability
@@ -234,14 +225,11 @@ AI has near-zero delivery cost per extra user.
 - WhatsApp-based micro-subscriptions
 
 ### 5️⃣ Unicorn-Scale Potential
-With just 15 lakh users @ ₹299/month:
-➡️ ₹448 crore/year (base subscription alone)
-Premium + institutional layers push revenue beyond ₹1,000 crore/year.
+With just 15 lakh users @ ₹299/month:<br>
+➡️ ₹448 crore/year (base subscription alone)<br>
+Premium + institutional layers push revenue beyond ₹1,000 crore/year.<br>
 > **Felina is structurally capable of becoming a unicorn-scale education AI platform.**
 
-</td>
-</tr>
-</table>
 
 ---
 
@@ -266,9 +254,21 @@ Premium + institutional layers push revenue beyond ₹1,000 crore/year.
 - AI lab experiment visualizer
 - Assignment + project builder
 
+</td>
+</tr>
+</table>
+
 ---
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
 
+<img src="5.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+  
 ## 💫 Concept Diversification
 
 Felina can expand into:
@@ -293,6 +293,7 @@ Research Link
 
 ---
 
+## 🏁 Conclusion
 
 <table>
 <tr>
@@ -303,8 +304,6 @@ Research Link
 </td>
 <td width="60%" valign="top">
 
-
-## 🏁 Conclusion
 
 Felina is not just an AI assistant —
 it is India’s first 24×7 Universal Personal Teacher.
